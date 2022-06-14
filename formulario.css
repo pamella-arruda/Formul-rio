@@ -68,15 +68,15 @@ fieldset .campo .grupo{
 }
 
 .campo input:focus, .campo select:focus, .campo textearea:focus {
-    background: #E0E0F8;
+    background: #7c7c7e;
 }
    
 .botao {
     font-size: 1.2em;
-    background: #59429d;
+    background: #3f15bb;
     border: 0;
     margin-bottom: 1em;
-    color: #ffffff;
+    color: #a1a19c;
     padding: 0.2em 0.6em;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
@@ -88,7 +88,7 @@ fieldset .campo .grupo{
 }
 
 .botao:hover {
-    background: #ccbbff;
+    background: #2f2e30;
     box-shadow: inset 2px 2px 2px rgba(0.0.0.0,2);
     text-shadow: none;
 }
